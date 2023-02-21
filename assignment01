@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>assignment 01</title>
+</head>
+<body>
+    <table cellpadding="15px"cellspacing="20px" >
+        <tr>
+            <td><img src="image1.jpg" alt="profile pic"></td>
+            <td colspan="2"> <h1>Mariam Ali</h1>
+            <b>objective :</b> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Soluta, at quas quasi modi vero saepe unde eaque iusto consequuntur.</td>
+            
+        
+       
+            
+            </tr>
+        
+        <tr> 
+            <td rowspan="2"><i>education</i> </td>
+            <td colspan="4" > Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quibusdam, saepe.</td>
+         <tr>   
+            <td colspan="4"> Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quibusdam, saepe.</td>
+            <hr>
+        </tr>   
+            
+           <hr>
+           
+
+        </tr>
+        <tr > 
+            <td rowspan="3"> <i>Expeience</i></td>
+            <td colspan="4"> Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quibusdam, saepe.</td>
+           <tr><td colspan="4" > Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quibusdam, saepe. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora laboriosam cum, commodi fugiat, nisi, doloribus totam perspiciatis id illum aut libero iusto fuga. Cum nihil quibusdam tempore itaque unde quo.</td></tr> 
+            <tr><td colspan="4" > Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quibusdam, saepe. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laborum sit voluptas officiis quam quibusdam ex, sequi illo saepe veniam maxime?</td></tr>
+           
+           
+
+        </tr>
+
+        <tr> 
+            <td > <i>skills</i></td>
+            
+            <td> Lorem ipsum dolor. </td>
+            <td> Lorem ipsum dolor. </td>
+            <td> Lorem ipsum dolor. </td>
+            <td> Lorem ipsum dolor. </td>
+
+        </tr>
+         <tr>
+            <td colspan="4" > Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem ut deserunt maiores. Dicta quaerat praesentium vel nisi distinctio eos cum.</td>
+         </tr>
+        
+
+
+
+
+
+
+
+
+
+    </table>
+    <hr>
+</body>
+</html>
