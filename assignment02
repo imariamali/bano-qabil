@@ -1,1 +1,80 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>asiignmnet02</title>
+</head>
+<body>
+    <div style="background-color: antiquewhite;" >
+    <table border="1px " width="100%" cellpadding="10px" cellspacing="15px" >
+        <thead>
+            <tr>
+            
+                <td ><img src="logo.jpg" alt="" height="100px"></td>
+             <nav>
+              <td colspan="2">
+                <a href="home.html">home</a>
+              </td>
+              <td>
+                <a href="about.html">about</a>
+            </td>
+                <td>
+                    <a href="contact.html">contact</a>
+                </td>
+                
+            </nav>
+                
+            </tr>
+        </thead>
+
+        <tbody>
+            <div>
+               <tr>
+                <td colspan="6"></td>
+               </tr> 
+                <tr>
+                    <td colspan="6"><img src="image4.jpg" alt="banner image" width="100%" height="200px" >
+
+                    </td>
+                </tr>
+            
+            <tr>
+                <td colspan="2">about us</td>
+                <td colspan="4"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt ipsa id ab esse quae excepturi ducimus iure quod atque a! Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat quam consequuntur quas quasi enim hic nulla minima quos cupiditate expedita?</td>
+            </tr>
+            <tr>
+                <td rowspan="4" colspan="2"></td>
+                <td> <img src="image3.jpg" alt=""></td>
+                <td> <img src="image3.jpg" alt=""></td>
+                <td><img src="image3.jpg" alt=""></td>
+
+            </tr>
+            <tr>
+                <!-- <td></td> -->
+                <td> <img src="image3.jpg" alt=""></td>
+                <td> <img src="image3.jpg" alt=""></td>
+                <td><img src="image3.jpg" alt=""></td>
+
+            </tr>
+            <tr>
+                <!-- <td></td> -->
+                <td> <img src="image3.jpg" alt=""></td>
+                <td> <img src="image3.jpg" alt=""></td>
+                <td><img src="image3.jpg" alt=""></td>
+            </tr>
+              </div>
+             
+             </tbody>
+             
+           <tfoot>
+            <tr>
+                <td colspan="5"> copyrights@</td>
+            </tr>
+           </tfoot>
+       </table>
+    /div>    
+</body>
+</html>
